@@ -1,0 +1,8 @@
+{
+  "name": "Banking ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "b933755a"
+}
